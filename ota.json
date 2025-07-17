@@ -3,7 +3,7 @@
   "date": "1697804231",
   "variants": [
     {
-      "name": "treble_arm64_bvN",
+      "name": "treble_a64_bvN",
       "size": "946311276",
       "url": "https://github.com/naz664/crDroid_gsi/releases/tag/v2023.10.20/crDroid-9.10-a64_bvN-Unofficial.img.xz"
     },
